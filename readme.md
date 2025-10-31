@@ -48,13 +48,13 @@ Cada projeto reflete minha experiência prática em transformar dados em insight
 ## 🧰 Principais Ferramentas e Tecnologias
 
 💼 **Análise e BI**  
-`Power BI` · `DAX` · `Power Query` · `Excel Avançado`
+`Power BI` · `DAX` · `Power Query` · `Excel Avançado` · `Dataflows Gen2`
 
 🧠 **Ciência de Dados e ML**  
-`Python` · `pandas` · `scikit-learn` · `Matplotlib` · `Jupyter`
+`Python` · `pandas` · `Jupyter`
 
 🧱 **Engenharia e Banco de Dados**  
-`SQL` · `BigQuery` · `PostgreSQL` · `MySQL` · `Dataflows Gen2`
+`SQL` · `BigQuery` · `PostgreSQL` · `MySQL` 
 
 ☁️ **Cloud & DevOps**  
 `Google Cloud Platform (GCP)` · `Azure` · `GitHub` · `CI/CD`
