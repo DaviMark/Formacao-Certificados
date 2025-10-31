@@ -1,4 +1,4 @@
-# 🚀 Meu Portfólio de Projetos
+# Meu Portfólio de Projetos
 
 Bem-vindo!  
 Aqui compartilho meus principais projetos nas áreas de **Análise de Dados, Engenharia de Dados, BI e Ciência de Dados**.  
@@ -6,7 +6,7 @@ Cada projeto reflete minha experiência prática em transformar dados em insight
 
 ---
 
-## 🎓 Formação Acadêmica
+## Formação Acadêmica
 
 - **Engenharia Mecânica** — *UNIP (Universidade Paulista)*  
   📅 Conclusão: **2024**
@@ -18,7 +18,7 @@ Cada projeto reflete minha experiência prática em transformar dados em insight
 
 ## 🏅 Certificações Profissionais
 
-### 📊 **Business Intelligence**
+### **Business Intelligence**
 - Xperiun – **Análises Avançadas com DAX** *(Ago/2025)*  
 - Xperiun – **APIs e Linguagem M Avançado** *(Ago/2025)*  
 - Xperiun – **Banco de Dados e Linguagem SQL** *(Ago/2025)*  
@@ -27,7 +27,7 @@ Cada projeto reflete minha experiência prática em transformar dados em insight
 
 ---
 
-### ⚙️ **Engenharia & Cloud**
+### **Engenharia & Cloud**
 - Xperiun – **Databricks com Spark** *(Ago/2025)*  
 - Databricks – **Data Management and Governance** *(Abr/2025)*  
 - Databricks – **DevOps Essentials for Data Engineering** *(Mai/2025)*  
@@ -38,33 +38,33 @@ Cada projeto reflete minha experiência prática em transformar dados em insight
 
 ---
 
-### 🤖 **Inteligência Artificial & Automação**
+### **Inteligência Artificial & Automação**
 - Xperiun – **Inteligência Artificial** *(Ago/2025)*  
 - Xperiun – **Inteligência Artificial (Avançado)** *(Jul/2025)*  
 - Hashtag – **Python Avançado** *(Out/2023)*  
 
 ---
 
-## 🧰 Principais Ferramentas e Tecnologias
+## Principais Ferramentas e Tecnologias
 
-💼 **Análise e BI**  
+**Análise e BI**  
 `Power BI` · `DAX` · `Power Query` · `Excel Avançado` · `Dataflows Gen2`
 
-🧠 **Ciência de Dados e ML**  
+**Ciência de Dados e ML**  
 `Python` · `pandas` · `Jupyter`
 
-🧱 **Engenharia e Banco de Dados**  
+**Engenharia e Banco de Dados**  
 `SQL` · `BigQuery` · `PostgreSQL` · `MySQL` 
 
-☁️ **Cloud & DevOps**  
+**Cloud & DevOps**  
 `Google Cloud Platform (GCP)` · `Azure` · `GitHub` · `CI/CD`
 
 ---
 
-## 📬 Contato
+## Contato
 
-📧 **Email:** davideliberto2001@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/david-deliberto-marques](https://www.linkedin.com/in/david-deliberto-marques/)  
+**Email:** davideliberto2001@gmail.com  
+**LinkedIn:** [linkedin.com/in/david-deliberto-marques](https://www.linkedin.com/in/david-deliberto-marques/)  
 🐙 **GitHub:** [github.com/DaviMark](https://github.com/DaviMark)
 
 ---
